@@ -1,0 +1,19 @@
+example Inputs object = {“a”:{“b”:{“c”:”d”}}} key = a/b/c value = d
+
+object = {“x”:{“y”:{“z”:”a”}}} key = x/y/z value = a
+
+
+
+Enter the object:{"a":{"b":{"c":"d"}}}
+
+Enter the key: a/b/c
+
+Value is:d
+
+
+
+Enter the object:{"x":{"y":{"z":"a"}}}
+
+Enter the key: x/y/z
+
+Value is:a
